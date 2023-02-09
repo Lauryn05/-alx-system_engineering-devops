@@ -1,1 +1,2 @@
-#!/bin/bash\nchmod 771 hello
+#!/bin/bash
+chmod 771 hello
