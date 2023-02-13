@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lt --full-time | awk NF } | head -n 10
