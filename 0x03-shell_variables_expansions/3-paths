@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | tr ":"| wc -l
+printf %.2fn $NUM
